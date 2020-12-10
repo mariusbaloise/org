@@ -28,7 +28,6 @@ orgs:
     - pbracher
     - PhilippeDePesseroy
     - ralfzurich
-    - RCBiczok
     - ricomeyer
     - sbubendorf
     - schlijo
@@ -142,8 +141,9 @@ orgs:
       Alumni:
         description: Former member of the Baloise Open Source Group
         maintainers:
-        - RCBiczok
+        - baopso
         members:
+        - RCBiczok
         - r3dDoX
         - sauterl
         - hhenkel
@@ -192,7 +192,6 @@ orgs:
         description: all (known) Baloise Group GitHub members
         maintainers:
         - tklueber
-        - RCBiczok
         - culmat
         - danielgrob
         - niiku
@@ -493,7 +492,6 @@ orgs:
               Developers'
             maintainers:
             - tklueber
-            - RCBiczok
             - frank-baier
             - patrickhusi
             - sbubendorf
@@ -547,7 +545,6 @@ orgs:
           IT-CH_SECC_CM_Open-Source:
             description: 'Software Engineering Competence Center - Community: Open-Source'
             maintainers:
-            - RCBiczok
             - culmat
             - MarkusTiede
             - luechtdiode
@@ -601,7 +598,6 @@ orgs:
           this-or-that:
             description: Team for This-or-That
             maintainers:
-            - RCBiczok
             - MarkusTiede
             - hirsch88
             - jordilaforge

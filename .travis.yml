@@ -16,6 +16,7 @@ jobs:
   include:
     - stage: validate-email
       script:
+        - git log --graph --oneline --decorate --all # debug
         - AUTHOR_EMAIL=$(git log -1 ${TRAVIS_COMMIT}^2 --pretty="%aE") # the last commit on the PR branch is ${TRAVIS_COMMIT}^2
         - if [[ ! $AUTHOR_EMAIL =~ ^[a-z.]+@(basler\.(ch|de)|baloise\.(be|ch|com|de|nl))$ ]]; then echo "Commit author (${AUTHOR_EMAIL}) doesn't have a baloise email address!"; exit 1; fi
     - stage: peribolos

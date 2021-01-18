@@ -136,6 +136,7 @@ orgs:
     - yannickholzenkamp
     - YvesVdm
     - RCBiczok
+    - oleg-arch
     members_can_create_repositories: true
     name: Baloise Group
     teams:

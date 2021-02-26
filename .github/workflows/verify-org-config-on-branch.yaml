@@ -25,8 +25,4 @@ jobs:
             gcr.io/k8s-prow/peribolos:$PERIBOLOS_VERSION \
             --github-token-path /etc/github/token \
             --config-path /etc/config/config.yaml \
-            --fix-org \
-            --fix-org-members \
-            --fix-team-members \
-            --fix-teams \
-            --fix-team-repos
+            --fix-org-members

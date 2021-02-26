@@ -137,7 +137,7 @@ orgs:
     - VasilijeRadulovic
     - yannickholzenkamp
     - YvesVdm
-    - RCBiczok
+    #- RCBiczok --- test if we can remove this user even though he still is in a team
     - oleg-arch
     members_can_create_repositories: true
     name: Baloise Group

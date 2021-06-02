@@ -196,7 +196,6 @@ orgs:
         repos:
           gitopscli: read
           orchestra-maven-plugin: admin
-          ui-library: read
           ui-library-next: read
       Open Source:
         description: all (known) Baloise Group GitHub members
@@ -351,7 +350,6 @@ orgs:
           rocket-chat-notifier: admin
           stripe2paypal: write
           test-automation-framework: write
-          ui-library: write
           ui-library-next: write
           utils: write
           ws-itsec_owasp: write
@@ -396,7 +394,6 @@ orgs:
               rocket-chat-notifier: admin
               stripe2paypal: write
               test-automation-framework: write
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
@@ -444,7 +441,6 @@ orgs:
               rocket-chat-notifier: admin
               stripe2paypal: write
               test-automation-framework: write
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
@@ -495,7 +491,6 @@ orgs:
               rocket-chat-notifier: admin
               stripe2paypal: write
               test-automation-framework: write
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
@@ -550,7 +545,6 @@ orgs:
               rocket-chat-notifier: admin
               stripe2paypal: write
               test-automation-framework: write
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
@@ -603,7 +597,6 @@ orgs:
               rocket-chat-notifier: admin
               stripe2paypal: write
               test-automation-framework: write
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
@@ -649,7 +642,6 @@ orgs:
               stripe2paypal: write
               test-automation-framework: write
               this-or-that: admin
-              ui-library: write
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write

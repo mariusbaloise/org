@@ -144,6 +144,7 @@ orgs:
     - YvesVdm
     - RCBiczok
     - oleg-arch
+    - prevosys
     members_can_create_repositories: true
     name: Baloise Group
     teams:
@@ -316,6 +317,7 @@ orgs:
         - stefan-jungo
         - rolfstebler
         - matal0
+        - prevosys
         privacy: closed
         repos:
           CICD-pipeline: admin

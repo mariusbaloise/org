@@ -608,7 +608,6 @@ orgs:
             - matal0
             members:
             - Georges52
-            - MegaRusher
             privacy: closed
             repos:
               oim-api: write

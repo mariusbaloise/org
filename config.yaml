@@ -38,6 +38,7 @@ orgs:
     - tklueber
     - UrsBienz
     - WolfgangWo
+    - kullmanp
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: read
@@ -86,7 +87,6 @@ orgs:
     - JelenaSretenovic 
     - klaushuberruiz
     - krzmur
-    - kullmanp
     - l0r5
     - lagoaresti
     - LaurentSteiner

@@ -600,6 +600,18 @@ orgs:
               ui-library-next: write
               utils: write
               ws-itsec_owasp: write
+          BITS_SIAM-SID:
+            description: 'BITS: SIAM Service Integration and Design'
+            maintainers:
+            - Solaflex
+            - vangual
+            - matal0
+            members:
+            - Georges52
+            - MegaRusher
+            privacy: closed
+            repos:
+              oim-api: write
           this-or-that:
             description: Team for This-or-That
             maintainers:

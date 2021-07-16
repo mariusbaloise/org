@@ -355,49 +355,6 @@ orgs:
           utils: write
           ws-itsec_owasp: write
         teams:
-          CM_Monitoring:
-            description: Members driving the monitoring-community content
-            maintainers:
-            - culmat
-            - MarkusTiede
-            - greg-junkietech
-            - b014651
-            privacy: closed
-            repos:
-              CICD-pipeline: admin
-              CICD-pipeline-private: admin
-              CLX-BKDOCIX: admin
-              HelloGit: admin
-              WorkflowLibs-archive: read
-              baloise-bootstrap: admin
-              baloise.github.io: write
-              code-of-gotham: admin
-              dashboard-plus: write
-              digital-signature: write
-              eZooKeeper: admin
-              egitblit: write
-              gitopscli: write
-              goldcards: write
-              importthem: write
-              intellij-plugin-stencil-web-components: read
-              java: read
-              jay: write
-              jee6-playground: write
-              jenkins-maven-plugin: write
-              jenkins-shared-library-archive: read
-              jira-plus: write
-              oom: admin
-              open-source: write
-              orchestra-maven-plugin: admin
-              pitches: write
-              pm-analysen: write
-              proxy: admin
-              rocket-chat-notifier: admin
-              stripe2paypal: write
-              test-automation-framework: write
-              ui-library-next: write
-              utils: write
-              ws-itsec_owasp: write
           IT-CH_Bets:
             description: IT Innovationsteam (Bets)
             maintainers:

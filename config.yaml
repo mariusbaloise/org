@@ -4,7 +4,6 @@ orgs:
     - b013329
     - b014651
     - baopso
-    - christiansiegel
     - culmat
     - danielgrob
     - eloy83
@@ -61,6 +60,7 @@ orgs:
     - bhaskarchenchu
     - borisrudolf
     - bsolar17
+    - christiansiegel
     - CookieMonster70
     - CorsinSulser
     - dalchers
@@ -164,6 +164,7 @@ orgs:
         - mfredenhagen
         - MrCode97
         - nfricker
+        - christiansiegel
         privacy: closed
       CICD pipeline:
         description: ""
@@ -220,7 +221,6 @@ orgs:
         - greg-junkietech
         - jordilaforge
         - seejaybee
-        - christiansiegel
         - erleiuat
         - michelpfirter
         - WolfgangWo
@@ -518,7 +518,6 @@ orgs:
             - hirsch88
             - Tiliavir
             - jordilaforge
-            - christiansiegel
             - arburk
             members:
             - kullmanp

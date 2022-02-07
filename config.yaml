@@ -322,6 +322,7 @@ orgs:
         - rolfstebler
         - matal0
         - prevosys
+        - juliafeld
         privacy: closed
         repos:
           CICD-pipeline: admin

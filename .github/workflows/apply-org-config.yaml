@@ -2,7 +2,7 @@ name: Apply Org Config
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   apply-org-config:
     runs-on: ubuntu-latest

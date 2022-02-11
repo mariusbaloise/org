@@ -4,7 +4,7 @@ We are using [Peribolos](https://github.com/kubernetes/test-infra/tree/master/pr
 
 ## Automation
 
-*peribolos* runs on every push to master and every PR to master (dry-run).
+*peribolos* runs on every push to main and every PR to main (dry-run).
 
 ### Full Config Dump
 

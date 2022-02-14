@@ -2,7 +2,7 @@ name: Verify Branch Author Email
 on:
   pull_request:
     branches:
-      - master
+      - main
 jobs:
   verify-branch-author-email:
     runs-on: ubuntu-latest
@@ -18,10 +18,10 @@ jobs:
           PATTERN: ^[a-z.]+@(basler\.(ch|de)|baloise\.(be|ch|com|de|nl))$
         run: |
           echo "commits on branch:"
-          git log --pretty='tformat:%h %s (%ae)' origin/master.. | tail -n +2
+          git log --pretty='tformat:%h %s (%ae)' origin/main.. | tail -n +2
           echo
 
-          git log --format='%ae' origin/master.. | tr [:upper:] [:lower:] | tail -n +2 > emails.txt
+          git log --format='%ae' origin/main.. | tr [:upper:] [:lower:] | tail -n +2 > emails.txt
           grep --invert-match --perl-regexp $PATTERN emails.txt > invalid-emails.txt || true
 
           echo "invalid emails:" $(cat invalid-emails.txt | wc -l) "of" $(cat emails.txt | wc -l)

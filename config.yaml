@@ -151,6 +151,7 @@ orgs:
     - oleg-arch
     - prevosys
     - juliafeld
+    - niels-oz
     members_can_create_repositories: true
     name: Baloise Group
     teams:
@@ -324,6 +325,7 @@ orgs:
         - matal0
         - prevosys
         - juliafeld
+        - niels-oz
         privacy: closed
         repos:
           CICD-pipeline: admin

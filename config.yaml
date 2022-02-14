@@ -150,6 +150,7 @@ orgs:
     - RCBiczok
     - oleg-arch
     - prevosys
+    - juliafeld
     - niels-oz
     members_can_create_repositories: true
     name: Baloise Group
@@ -323,6 +324,7 @@ orgs:
         - rolfstebler
         - matal0
         - prevosys
+        - juliafeld
         - niels-oz
         privacy: closed
         repos:

@@ -326,6 +326,7 @@ orgs:
         - prevosys
         - juliafeld
         - niels-oz
+        - pbadevops
         privacy: closed
         repos:
           CICD-pipeline: admin

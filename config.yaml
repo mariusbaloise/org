@@ -152,6 +152,7 @@ orgs:
     - prevosys
     - juliafeld
     - niels-oz
+    - pbadevops
     members_can_create_repositories: true
     name: Baloise Group
     teams:

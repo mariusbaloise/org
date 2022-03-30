@@ -153,6 +153,7 @@ orgs:
     - juliafeld
     - niels-oz
     - pbadevops
+    - koenigle
     members_can_create_repositories: true
     name: Baloise Group
     teams:
@@ -328,6 +329,7 @@ orgs:
         - juliafeld
         - niels-oz
         - pbadevops
+        - koenigle
         privacy: closed
         repos:
           CICD-pipeline: admin

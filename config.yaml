@@ -168,7 +168,6 @@ orgs:
         - hhenkel
         - renat1sakenov
         - mfredenhagen
-        - MrCode97
         - nfricker
         - christiansiegel
         privacy: closed
@@ -330,6 +329,7 @@ orgs:
         - niels-oz
         - pbadevops
         - koenigle
+        - MrCode97
         privacy: closed
         repos:
           CICD-pipeline: admin

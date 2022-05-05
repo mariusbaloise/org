@@ -15,7 +15,7 @@ jobs:
       - name: Peribolos run
         env:
           GITHUB_TOKEN: ${{ secrets.PERIBOLOS_TOKEN }}
-          PERIBOLOS_VERSION: v20200826-f9138eb980
+          PERIBOLOS_VERSION: v20220422-710d89b07b
         run: |
           echo $GITHUB_TOKEN > $RUNNER_TEMP/token
           docker run --rm \

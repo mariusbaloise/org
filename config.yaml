@@ -155,6 +155,7 @@ orgs:
     - niels-oz
     - pbadevops
     - koenigle
+    - robert-groensfeld
     members_can_create_repositories: true
     name: Baloise Group
     teams:
@@ -329,6 +330,7 @@ orgs:
         - pbadevops
         - koenigle
         - MrCode97
+        - robert-groensfeld
         privacy: closed
         repos:
           CICD-pipeline: admin

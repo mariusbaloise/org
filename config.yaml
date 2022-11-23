@@ -336,6 +336,10 @@ orgs:
         - koenigle
         - MrCode97
         - robert-groensfeld
+        - DaOneMoD
+        - jenniferrupp
+        - kuhnfe
+        - pythaurus
         privacy: closed
         repos:
           CICD-pipeline: admin

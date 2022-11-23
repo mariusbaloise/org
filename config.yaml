@@ -63,6 +63,7 @@ orgs:
     - clastzoo
     - CookieMonster70
     - CorsinSulser
+    - DaOneMoD
     - dalchers
     - Dalchi
     - DanielPrill
@@ -85,9 +86,11 @@ orgs:
     - HeinzKauer
     - hhenkel
     - honeggera
+    - jenniferrupp
     - janbrohl
     - JeanDoescher
-    - JelenaSretenovic 
+    - JelenaSretenovic
+    - kuhnfe
     - klaushuberruiz
     - krzmur
     - l0r5
@@ -128,6 +131,7 @@ orgs:
     - rotalf
     - rothmarco
     - sauterl
+    - stefan-jungo
     - simonboerlin
     - skytime-sh
     - sobabufe    
@@ -154,6 +158,7 @@ orgs:
     - juliafeld
     - niels-oz
     - pbadevops
+    - pythaurus
     - koenigle
     - robert-groensfeld
     members_can_create_repositories: true

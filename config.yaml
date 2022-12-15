@@ -16,7 +16,6 @@ orgs:
     - jochenpilger
     - jordilaforge
     - luechtdiode
-    - MarkusTiede
     - MichaelLewi
     - michelpfirter
     - mistel28
@@ -60,6 +59,7 @@ orgs:
     - borisrudolf
     - bsolar17
     - christiansiegel
+    - MarkusTiede
     - clastzoo
     - CookieMonster70
     - CorsinSulser
@@ -176,6 +176,7 @@ orgs:
         - renat1sakenov
         - nfricker
         - christiansiegel
+        - MarkusTiede
         privacy: closed
       CICD pipeline:
         description: ""
@@ -218,7 +219,6 @@ orgs:
         - culmat
         - danielgrob
         - niiku
-        - MarkusTiede
         - luechtdiode
         - joachimprinzbach
         - schlijo
@@ -427,7 +427,6 @@ orgs:
           IT-CH_Integration-Services:
             description: ""
             maintainers:
-            - MarkusTiede
             - schlijo
             - frank-baier
             members:
@@ -532,7 +531,6 @@ orgs:
             description: 'Software Engineering Competence Center - Community: Open-Source'
             maintainers:
             - culmat
-            - MarkusTiede
             - luechtdiode
             - joachimprinzbach
             - hirsch88

@@ -167,6 +167,7 @@ orgs:
     - pythaurus
     - koenigle
     - robert-groensfeld
+    - tschei65
     members_can_create_repositories: true
     name: Baloise Group
     teams:

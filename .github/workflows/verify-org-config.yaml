@@ -2,7 +2,7 @@ name: Verify Org Config
 on:
   pull_request_target:
     branches:
-      - master
+      - main
 jobs:
   verify-org-config:
     runs-on: ubuntu-latest

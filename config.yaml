@@ -147,6 +147,25 @@ orgs:
     - koenigle
     - robert-groensfeld
     - tschei65
+    teams:
+      Organization Managers:
+        description: Baloise GitHub Organization Managers
+        maintainers:
+        - baopso
+        members:
+        - culmat
+        - hirsch88
+        - incubator-tekton
+        - joachimprinzbach
+        - niiku
+        - patrit
+        - arburk
+        - kullmanp 
+        - Tiliavir
+        - svene
+        privacy: closed
+        repos:
+          org: admin
 
 
       

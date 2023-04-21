@@ -1,41 +1,17 @@
 orgs:
   baloise:
     admins:
-    - b013329
-    - b014651
     - baopso
     - culmat
-    - danielgrob
-    - eloy83
-    - erleiuat
-    - FabrizioBroennimann
-    - frank-baier
-    - greg-junkietech
     - hirsch88
+    - incubator-tekton
     - joachimprinzbach
-    - jochenpilger
-    - jordilaforge
-    - luechtdiode
-    - MichaelLewi
-    - michelpfirter
-    - mistel28
     - niiku
-    - Pascal1968
-    - patrickhusi
     - patrit
-    - pbracher
-    - PhilippeDePesseroy
-    - ralfzurich
-    - ricomeyer
-    - sbubendorf
-    - schlijo
-    - seejaybee
-    - StefanHolmstock
-    - ThomasSchoeb
-    - tklueber
-    - UrsBienz
-    - WolfgangWo
-    - kullmanp
+    - arburk
+    - kullmanp 
+    - Tiliavir
+    - svene
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
     default_repository_permission: read

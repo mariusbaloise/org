@@ -150,6 +150,7 @@ orgs:
     - robert-groensfeld
     - tschei65
     - seejaybee
+    - udamken
     teams:
       Organization Managers:
         description: Baloise GitHub Organization Managers

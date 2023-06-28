@@ -3,7 +3,7 @@ orgs:
     name: Baloise Group
     billing_email: Group.CH_Open-Source@baloise.ch
     company: ""
-    default_repository_permission: read
+    default_repository_permission: write
     description: Open Source @ Baloise Group
     email: Group.CH_Open-Source@baloise.ch
     has_organization_projects: true
